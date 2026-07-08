@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yahya Zakaria Elyan  
 
-🎓 **MSc Computer Science Candidate** | 🧠 Software Engineer | 🔐 AI & Cybersecurity Enthusiast  
+🎓 **MSc Computer Science Graduate** | 🧠 Software Engineer | 🔐 AI & Cybersecurity Enthusiast  
 
 ---
 
