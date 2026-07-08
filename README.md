@@ -12,12 +12,11 @@ Currently strengthening my security knowledge through the **Google Cybersecurity
 ---
 
 ### 🎓 Education & Certifications
-- 🎓 **MSc in Computer Science** – University of Dundee, UK *(Expected 2026)*  
+- 🎓 **MSc in Computer Science** – University of Dundee, UK *(2026)*  
 - 🎓 **BSc in Electrical & Electronics Engineering** – Cairo University, Egypt *(2021)*  
 - 📘 **CS50 Series (Python, CS, Web, SQL)** – Harvard  
 - 🧩 **Google Cybersecurity Certificate** – In Progress  
 - 🐳 **Docker / FastAPI / React / AI-ML Udemy Courses** – Ongoing
-- 
 ---
 
 ### ⚙️ Technical Skills
@@ -33,9 +32,7 @@ Currently strengthening my security knowledge through the **Google Cybersecurity
 ### 🧩  Current Projects
 - 🕹️ AntiWebNSFW (Mobile app and Windows app)
 - 💡 Team Project on a Medical Health Care App
-- 🔐 Learning how to secure web applications and APIs
-- 🔐 Strengthing my Knowledge in AI/ML to do a project related to Debate Dominaizer
-  
+- 🔐 Learning how to secure web applications and APIs  
 ---
 
 ### 📊 GitHub Stats & Visuals 
