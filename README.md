@@ -16,22 +16,20 @@ Currently strengthening my security knowledge through the **Google Cybersecurity
 - 🎓 **BSc in Electrical & Electronics Engineering** – Cairo University, Egypt *(2021)*  
 - 📘 **CS50 Series (Python, CS, Web, SQL)** – Harvard  
 - 🧩 **Google Cybersecurity Certificate** – In Progress  
-- 🐳 **Docker / FastAPI / React / AI-ML Udemy Courses** – Ongoing
+- 🐳 **Docker / FastAPI / AI-ML Udemy Courses** – Ongoing
 ---
 
 ### ⚙️ Technical Skills
-**Languages:** Python, JavaScript, C/C++, SQL, Java, Assembly  
+**Languages:** Python, JavaScript, C/C++, SQL, Java  
 **AI & ML:** PyTorch, Hugging Face Transformers, scikit-learn, spaCy, Gemini API  
-**Backend:** FastAPI, Django  
+**Backend:** FastAPI  
 **Databases:** MySQL, MongoDB, SQLite3  
 **Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap  
 **Dev Tools:** Git, Docker, Linux, VS Code, Google Colab  
-
 ---
 
 ### 🧩  Current Projects
-- 🕹️ AntiWebNSFW (Mobile app and Windows app)
-- 💡 Team Project on a Medical Health Care App
+- 🕹️ Aegis (Mobile app and Windows app)
 - 🔐 Learning how to secure web applications and APIs  
 ---
 
@@ -69,7 +67,8 @@ To grow as a **software engineer** with strong foundations in **cybersecurity** 
 > Features responsive design, mood-based filtering, and a short video usage guide.  
 > Built with **HTML, CSS, JS, and Flask/FastAPI backend integration**
 
+[![Aegis](https://github-readme-stats.vercel.app/api/pin/?username=yzes95&repo=project-aegis-showcase&theme=radical)](https://github.com/yzes95/project-aegis-showcase)
 
 
-> “Keep learning, keep building — every skill adds a new layer to your potential.”
+> “Keep learning, keep building as every skill adds a new layer to your potential.”
 > “Building software that is not only functional—but intelligent, secure, and built to last.”
