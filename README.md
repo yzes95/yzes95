@@ -20,12 +20,12 @@ Currently strengthening my security knowledge through the **Google Cybersecurity
 ---
 
 ### ⚙️ Technical Skills
-**Languages:** Python, JavaScript, C/C++, SQL, Java  
-**AI & ML:** PyTorch, Hugging Face Transformers, scikit-learn, spaCy, Gemini API  
-**Backend:** FastAPI  
-**Databases:** MySQL, MongoDB, SQLite3  
-**Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap  
-**Dev Tools:** Git, Docker, Linux, VS Code, Google Colab  
+**Languages:** Python, JavaScript, C/C++, SQL, Java
+**AI & ML:** PyTorch, Hugging Face Transformers, scikit-learn, spaCy, Gemini API
+**Backend:** FastAPI
+**Databases:** MySQL, MongoDB, SQLite3
+**Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap
+**Dev Tools:** Git, Docker, Linux, VS Code, Google Colab
 ---
 
 ### 🧩  Current Projects
