@@ -26,6 +26,7 @@ Backend: FastAPI
 Databases: MySQL, MongoDB, SQLite3  
 Frontend: React, HTML, CSS, Tailwind CSS, Bootstrap  
 Dev Tools: Git, Docker, Linux, VS Code, Google Colab  
+
 ---
 
 ### 🧩  Current Projects
