@@ -71,4 +71,4 @@ To grow as a **software engineer** with strong foundations in **cybersecurity** 
 
 
 > “Keep learning, keep building as every skill adds a new layer to your potential.”
-> “Building software that is not only functional—but intelligent, secure, and built to last.”
+> “Building software that is not only functional but intelligent, secure, and built to last.”
