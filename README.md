@@ -41,7 +41,7 @@ Dev Tools: Git, Docker, Linux, VS Code, Google Colab
 ---
 
 ### 🌱 Current Goal
-To grow as a **software engineer** with strong foundations in **cybersecurity** and **system design**, contributing to projects that build secure, efficient, and scalable systems.
+To grow as a **software engineer** with strong foundations in **cybersecurity**, **system design**, **Cloud** and **AI/ML**, contributing to projects that build secure, efficient, and scalable systems.
 
 ---
 
