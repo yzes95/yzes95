@@ -5,9 +5,7 @@
 ---
 
 ### 💡 About Me
-MSc Computer Science candidate with a strong engineering foundation, specializing in building robust, end-to-end software solutions.  
-I design and deploy high-performance systems using **Python**, **FastAPI**, and **Docker**, and enhance them with applied **machine learning** from classical ML models to fine-tuned NLP systems.  
-Currently strengthening my security knowledge through the **Google Cybersecurity Professional Certificate**, I’m passionate about creating reliable, intelligent, and secure software systems.
+Software Engineering Graduate (MSc Computer Science, University of Dundee) with a strong foundation in software development and modern engineering practices. Experienced in developing applications using Python, FastAPI, JavaScript, and front-end technologies, as well as working with databases and RESTful APIs. Skilled in version control with Git, containerization with Docker, and collaborating within Agile development teams. Passionate about continuous learning, problem-solving, and building reliable software solutions that deliver real value to users.
 
 ---
 
