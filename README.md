@@ -117,8 +117,8 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 ## 📊 GitHub Analytics & Visuals
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yzes95/yzes95/main/stats.svg?v=2" alt="Yahya's GitHub Stats" width="48%"/>
-  <img src="https://raw.githubusercontent.com/yzes95/yzes95/main/langs.svg?v=2" alt="Top Languages" width="48%"/>
+  <img src="./stats.svg" alt="Yahya's GitHub Stats" width="48%"/>
+  <img src="./langs.svg" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
