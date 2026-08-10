@@ -37,7 +37,6 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 > **Repository Link:** [`yzes95/project-aegis-showcase`](https://github.com/yzes95/project-aegis-showcase)  
 > **Tech Stack:** React Native, Kotlin (Android), C# .NET WPF (Windows), FastAPI, PostgreSQL, TensorFlow Lite, PyTest
 
-**What viewers and recruiters will see in this showcase:**
 * **Hybrid On-Device AI Architecture:** Multi-crop screen classification running entirely offline (TensorFlow Lite, MobileNetV2, OpenNSFW2, WD14 Tagger) to guarantee 100% user screen privacy.
 * **2-Tier Dynamic Pipeline:** Combines a 21-crop Sentinel classifier with a 6,000-tag single-pass decision tree to achieve 96%+ precision and eliminate false positives on safe media.
 * **OS-Level Self-Defense:** C# WPF Win32 process control routines with Mutual Watchdog process revival & Win32 DACL process locks on Windows, coupled with native Kotlin Accessibility Service node scanners and multi-pattern OEM settings interceptors on Android.
