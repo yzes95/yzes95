@@ -22,7 +22,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 
 | Domain | Technologies & Tools |
 |---|---|
-| **Core Languages** | Python, SQL, C/C++, JavaScript, C# (.NET), Kotlin, Java, HTML5, CSS3 |
+| **Core Languages** | Python, SQL, C/C++, JavaScript, HTML5, CSS3, working knowledge of C#, Kotlin, JavaScript and Java|
 | **Backend & REST APIs** | FastAPI, RESTful API Design, JWT Auth & OAuth 2.0, Middleware, Nginx |
 | **Databases & Data** | PostgreSQL, MySQL, SQLite, MongoDB, Relational Schema Design, Pandas, NumPy |
 | **Cloud & DevOps** | AWS EC2, IAM Policies, Security Groups, Docker, GitHub Actions CI/CD, Linux (Ubuntu/RHEL), Git |
