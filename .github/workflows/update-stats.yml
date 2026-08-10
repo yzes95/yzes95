@@ -15,16 +15,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download updated stats & top languages SVGs
+      - name: Download authentic stats & top languages SVGs
         run: |
-          curl -s "https://github-readme-stats-fast.vercel.app/api?username=yzes95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" -o stats_raw.svg
+          curl -s "https://github-readme-stats-fast.vercel.app/api?username=yzes95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" -o stats.svg
           curl -s "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yzes95&layout=compact&theme=radical" -o langs.svg
-          
-          sed -i 's/data-testid="prs">[0-9]*/data-testid="prs">48/g' stats_raw.svg
-          sed -i 's/data-testid="issues">[0-9]*/data-testid="issues">50/g' stats_raw.svg
-          sed -i 's/data-testid="level-rank-icon">\s*C+/data-testid="level-rank-icon">A+/g' stats_raw.svg
-          sed -i 's/Rank: C+/Rank: A+/g' stats_raw.svg
-          mv stats_raw.svg stats.svg
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
