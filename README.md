@@ -34,6 +34,8 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 ## 🌟 Featured Engineering Projects
 
 ### 🛡️ 1. Aegis: Digital Shield (Architecture Showcase)
+[![Aegis Showcase](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=project-aegis-showcase&theme=radical)](https://github.com/yzes95/project-aegis-showcase)
+
 > **Repository Link:** [`yzes95/project-aegis-showcase`](https://github.com/yzes95/project-aegis-showcase)  
 > **Tech Stack:** React Native, Kotlin (Android), C# .NET WPF (Windows), FastAPI, PostgreSQL, TensorFlow Lite, PyTest
 
@@ -57,6 +59,8 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 ---
 
 ### 🧠 3. Argument Mining Classifier & REST API (MSc Dissertation)
+[![Argument Mining](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Argument-Mining&theme=radical)](https://github.com/yzes95/Argument-Mining) [![Argument Mining API](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Argument-Mining-API&theme=radical)](https://github.com/yzes95/Argument-Mining-API)
+
 > **Repositories:** [`yzes95/Argument-Mining`](https://github.com/yzes95/Argument-Mining) (Model Training) | [`yzes95/Argument-Mining-API`](https://github.com/yzes95/Argument-Mining-API) (FastAPI Service)  
 > **Tech Stack:** PyTorch, RoBERTa, BERT, scikit-learn, FastAPI, Docker, PyTest, Google Colab (NVIDIA T4 GPU)
 
@@ -67,6 +71,8 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 ---
 
 ### 🎬 4. MoodVie: Emotion-Based Recommendation Platform
+[![MoodVie](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=MoodVi&theme=radical)](https://github.com/yzes95/MoodVi)
+
 > **Repository & Live Site:** [`yzes95/MoodVi`](https://github.com/yzes95/MoodVi) | [Live Web App](https://yzes95.github.io/MoodVi/)  
 > **Tech Stack:** JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Flowbite, TMDB REST API, Gemini AI API
 
@@ -77,6 +83,8 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 ---
 
 ### 🕹️ 5. CatHunt: 2D Platformer Adventure (Python & Pygame)
+[![CatHunt](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Cat_Hunt_V1_Python&theme=radical)](https://github.com/yzes95/Cat_Hunt_V1_Python)
+
 > **Repository Link:** [`yzes95/Cat_Hunt_V1_Python`](https://github.com/yzes95/Cat_Hunt_V1_Python)  
 > **Tech Stack:** Python 3, Pygame, PyTest, CSV I/O
 
@@ -106,7 +114,12 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics & Visuals
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yzes95/yzes95/main/stats.svg" alt="Yahya's GitHub Stats" width="48%"/>
+  <img src="https://raw.githubusercontent.com/yzes95/yzes95/main/langs.svg" alt="Top Languages" width="48%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzes95&theme=github-compact" alt="Yahya's GitHub Activity Graph" width="100%"/>
