@@ -47,17 +47,18 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 
 ---
 
-### 🤝 2. Ataa (عطاء): Fintech Donation & Direct Humanitarian Aid Platform
+### 🤝 2. Ataa (عطاء): Fintech Donation & Direct Humanitarian Aid Platform (In Progress)
 [![Ataa Frontend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform&theme=radical)](https://github.com/yzes95/Donation-Platform) [![Ataa Backend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform-Backend&theme=radical)](https://github.com/yzes95/Donation-Platform-Backend)
 
 > **Repositories & Live Demo:** [`yzes95/Donation-Platform`](https://github.com/yzes95/Donation-Platform) (Frontend PWA) | [`yzes95/Donation-Platform-Backend`](https://github.com/yzes95/Donation-Platform-Backend) (FastAPI Service) | [Live Web App](https://yzes95.github.io/Donation-Platform/)  
 > **Tech Stack:** React 19, Vite, Tailwind CSS, PWA (Service Workers), FastAPI, PostgreSQL, Framer Motion, Recharts, i18next (Arabic/English RTL), Docker, AWS
 
-* **Direct Family Empowerment & Dual-Funding Fintech Model:** Connects donors directly to verified family cases (medical surgeries, debt relief, ancestral graveyard & housing maintenance) with 100% pledge delivery to beneficiaries, alongside a transparent operational infrastructure fund.
-* **Tribe & Family Geographic Filtering:** First-of-its-kind structured hierarchical filters for Sinai and Egyptian tribes (Tarabin: Aboshwemy, Abo Nafee, Hawashma; Bayadiya: Aelbyaden; Sawarka; Ayayda) and verified public hospitals (Magdi Yacoub, 57357, Resala, Orman).
-* **Multi-Portal Architecture & Verification Queue:** Complete ecosystem spanning Public Donation flows, Family Representative verification applications (`/apply-rep`), and Administrator audit dashboards with field inspection workflows.
-* **Modern Progressive Web App (PWA):** Fully installable mobile & desktop experience featuring offline receipt caching, responsive bottom navigation, dark/light modes, and real-time electronic Reference ID donation tracking.
-
+* **Multi-Role Donation Experience:** Designing a responsive PWA covering donor interactions, family-representative management, and administrative verification and monitoring workflows.
+* **Direct Family Assistance & Targeted Donations:** Connects donors with verified family assistance cases, allowing contributions to be directed toward specific needs and services rather than general fundraising.
+* **Family & Assistance Management Backend:** Developing a FastAPI REST backend with PostgreSQL to manage family representatives, assistance requests, donation records, and transaction data.
+* **Donation & Transaction Tracking:** Implementing donation workflows with anonymous/public contribution options, transaction references, status tracking, and structured donation history.
+* **AWS-Ready Cloud Architecture:** Designing the application for AWS deployment using Docker, IAM, S3, and CloudFormation, establishing an infrastructure-as-code approach for reproducible cloud resources.
+* 
 ---
 
 ### 🧠 3. Argument Mining Classifier & REST API (MSc Dissertation)
