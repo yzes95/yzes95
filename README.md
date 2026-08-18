@@ -47,14 +47,16 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 
 ---
 
-### ☁️ 2. Student Housing Platform API (AWS Cloud Deployment)
-> **Status:** In Progress (Cloud Portfolio Project)  
-> **Tech Stack:** FastAPI, PostgreSQL, Docker, AWS EC2 (Ubuntu), Nginx, GitHub Actions CI/CD, PyTest
+### 🤝 2. Ataa (عطاء): Fintech Donation & Direct Humanitarian Aid Platform
+[![Ataa Frontend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform&theme=radical)](https://github.com/yzes95/Donation-Platform) [![Ataa Backend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform-Backend&theme=radical)](https://github.com/yzes95/Donation-Platform-Backend)
 
-* **Domain-Driven REST Backend:** Centralizes property, agency, student, and application data through structured RESTful endpoints.
-* **AWS Cloud Infrastructure:** Containerized with Docker and deployed to an Ubuntu AWS EC2 instance, using Nginx as a reverse proxy to route incoming traffic.
-* **Cloud Security & Least Privilege:** Configured EC2 Security Groups and fine-grained AWS IAM policies following least-privilege principles.
-* **Automated CI/CD:** Built a GitHub Actions workflow that executes automated PyTest suites and supports deployment upon successful commits.
+> **Repositories & Live Demo:** [`yzes95/Donation-Platform`](https://github.com/yzes95/Donation-Platform) (Frontend PWA) | [`yzes95/Donation-Platform-Backend`](https://github.com/yzes95/Donation-Platform-Backend) (FastAPI Service) | [Live Web App](https://yzes95.github.io/Donation-Platform/)  
+> **Tech Stack:** React 19, Vite, Tailwind CSS, PWA (Service Workers), FastAPI, PostgreSQL, Framer Motion, Recharts, i18next (Arabic/English RTL), Docker, AWS
+
+* **Direct Family Empowerment & Dual-Funding Fintech Model:** Connects donors directly to verified family cases (medical surgeries, debt relief, ancestral graveyard & housing maintenance) with 100% pledge delivery to beneficiaries, alongside a transparent operational infrastructure fund.
+* **Tribe & Family Geographic Filtering:** First-of-its-kind structured hierarchical filters for Sinai and Egyptian tribes (Tarabin: Aboshwemy, Abo Nafee, Hawashma; Bayadiya: Aelbyaden; Sawarka; Ayayda) and verified public hospitals (Magdi Yacoub, 57357, Resala, Orman).
+* **Multi-Portal Architecture & Verification Queue:** Complete ecosystem spanning Public Donation flows, Family Representative verification applications (`/apply-rep`), and Administrator audit dashboards with field inspection workflows.
+* **Modern Progressive Web App (PWA):** Fully installable mobile & desktop experience featuring offline receipt caching, responsive bottom navigation, dark/light modes, and real-time electronic Reference ID donation tracking.
 
 ---
 
