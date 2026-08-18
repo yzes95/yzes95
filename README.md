@@ -58,7 +58,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 * **Family & Assistance Management Backend:** Developing a FastAPI REST backend with PostgreSQL to manage family representatives, assistance requests, donation records, and transaction data.
 * **Donation & Transaction Tracking:** Implementing donation workflows with anonymous/public contribution options, transaction references, status tracking, and structured donation history.
 * **AWS-Ready Cloud Architecture:** Designing the application for AWS deployment using Docker, IAM, S3, and CloudFormation, establishing an infrastructure-as-code approach for reproducible cloud resources.
-* 
+  
 ---
 
 ### 🧠 3. Argument Mining Classifier & REST API (MSc Dissertation)
