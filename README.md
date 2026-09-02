@@ -51,7 +51,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, t
 [![Ataa Frontend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform&theme=radical)](https://github.com/yzes95/Donation-Platform) [![Ataa Backend](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform-Backend&theme=radical)](https://github.com/yzes95/Donation-Platform-Backend)
 
 > **Repositories & Live Demo:** [`yzes95/Donation-Platform`](https://github.com/yzes95/Donation-Platform) (Frontend PWA) | [`yzes95/Donation-Platform-Backend`](https://github.com/yzes95/Donation-Platform-Backend) (FastAPI Service) | [Live Web App](https://yzes95.github.io/Donation-Platform/)  
-> **Tech Stack:** React 19, Vite, Tailwind CSS, PWA (Service Workers), FastAPI, PostgreSQL, Framer Motion, Recharts, i18next (Arabic/English RTL), Docker, AWS
+> **Tech Stack:** React, Tailwind CSS, PWA (Service Workers), FastAPI, PostgreSQL, Recharts, i18next (Arabic/English RTL), Docker, AWS
 
 * **Multi-Role Donation Experience:** Designing a responsive PWA covering donor interactions, family-representative management, and administrative verification and monitoring workflows.
 * **Direct Family Assistance & Targeted Donations:** Connects donors with verified family assistance cases, allowing contributions to be directed toward specific needs and services rather than general fundraising.
