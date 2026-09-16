@@ -24,7 +24,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 |---|---|
 | **Core Languages** | Python, SQL, C/C++, JavaScript, HTML5, CSS3, working knowledge of C#, Kotlin, and Java |
 | **Backend & REST APIs** | FastAPI, RESTful API Design, JWT Auth & OAuth 2.0, Middleware, Nginx |
-| **Frontend & Web Apps** | React 19, Progressive Web Apps (PWA), Vite, Tailwind CSS, Framer Motion, React Native |
+| **Frontend & Web Apps** | React, Progressive Web Apps (PWA), Tailwind CSS|
 | **Databases & Data** | PostgreSQL, MySQL, SQLite, MongoDB, Relational Schema Design, SQLAlchemy, Pandas, NumPy |
 | **Cloud & DevOps** | AWS (VPC, Subnets, EC2, ALB, RDS, S3, IAM, CloudWatch), Docker, GitHub Actions CI/CD, Linux (Ubuntu/RHEL), Git |
 | **AI & Machine Learning** | PyTorch, Hugging Face (RoBERTa, BERT), TensorFlow Lite, OpenNSFW2, WD14 Tagger, scikit-learn |
@@ -34,7 +34,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 
 ## 🌟 Featured Engineering Projects
 
-### 🛡️ 1. Aegis: Digital Shield (Architecture Showcase)
+### 🛡️ 1. Aegis: Digital Shield (Architecture Showcase) (In Progress)
 [![Aegis Showcase](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=project-aegis-showcase&theme=radical)](https://github.com/yzes95/project-aegis-showcase)
 
 > **Repository Link:** [`yzes95/project-aegis-showcase`](https://github.com/yzes95/project-aegis-showcase)  
@@ -48,32 +48,24 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 
 ---
 
-### 🤝 2. Ataa (عطاء): Family Donation Management Platform & AWS Cloud Architecture Lab
+### 🤝 2. Ataa (عطاء): Family Donation Management Platform & AWS Cloud Architecture Lab (In Progress)
 [![Ataa Platform](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Donation-Platform&theme=radical)](https://github.com/yzes95/Donation-Platform)
 
 > **Repositories:** [`yzes95/Donation-Platform`](https://github.com/yzes95/Donation-Platform) (PWA & Cloud Lab) | [`yzes95/Donation-Platform-Backend`](https://github.com/yzes95/Donation-Platform-Backend) (FastAPI Backend)  
 > **Live Web Application:** [https://yzes95.github.io/Donation-Platform/](https://yzes95.github.io/Donation-Platform/)  
-> **Tech Stack:** React 19, Vite, Tailwind CSS, PWA, Framer Motion, Python 3, FastAPI, PostgreSQL, Docker, AWS (VPC, Subnets, ALB, EC2, RDS PostgreSQL, S3, IAM, CloudWatch)
+> **Tech Stack:** React, Tailwind CSS, PWA, Python 3, FastAPI, PostgreSQL, Docker, AWS (VPC, Subnets, ALB, EC2, RDS PostgreSQL, S3, IAM, CloudWatch)
 
-* **Direct Family Humanitarian Aid:** Bilingual (Arabic RTL default & English) Progressive Web App dedicated to verified family relief with a dual-funding model ensuring 100% of donor pledges reach beneficiaries without administrative overhead.
+* **AWS-Ready Cloud Architecture:** Designing the application for AWS deployment using Docker, IAM, S3, and CloudFormation, establishing an infrastructure-as-code approach for reproducible cloud resources.
 * **Interactive AWS Architecture & Simulation Lab:** Built an educational cloud laboratory illustrating an end-to-end transaction lifecycle across production AWS infrastructure (Client Browser → Route 53 & IGW → Public Subnet ALB with ACM SSL → Private Subnet EC2 hosting Docker/FastAPI → Private Subnet RDS PostgreSQL → Amazon S3 via scoped IAM Roles → CloudWatch Logs).
-* **Code-to-Cloud Dynamic Inspection:** Implemented interactive SVG architecture nodes synced in real-time with live backend source code dynamically fetched from GitHub, visually walking through request validation, SSL termination, and security analysis (CORS whitelisting, least-privilege IAM roles, SQL injection protection, and production logging).
-* **Offline-First PWA & Production Design System:** Service-worker caching with installability across mobile and desktop, localized currency formatting (EGP), responsive themes (Dark/Light), and field-verification workflows for family representatives and platform governance.
+* **Multi-Role Donation Experience:** Designing a responsive PWA covering donor interactions, family-representative management, and administrative verification and monitoring workflows.
+* **Family & Assistance Management Backend:** Developing a FastAPI REST backend with PostgreSQL to manage family representatives, assistance requests, donation records, and transaction data.
+* **Direct Family Assistance & Targeted Donations:** Connects donors with verified family assistance cases, allowing contributions to be directed toward specific needs and services rather than general fundraising.
+* **Donation & Transaction Tracking:** Implementing donation workflows with anonymous/public contribution options, transaction references, status tracking, and structured donation history.
+
 
 ---
 
-### ☁️ 3. Student Housing Platform API (AWS Cloud Deployment)
-> **Status:** In Progress (Cloud Portfolio Project)  
-> **Tech Stack:** FastAPI, PostgreSQL, Docker, AWS EC2 (Ubuntu), Nginx, GitHub Actions CI/CD, PyTest
-
-* **Domain-Driven REST Backend:** Centralizes property, agency, student, and application data through structured RESTful endpoints.
-* **AWS Cloud Infrastructure:** Containerized with Docker and deployed to an Ubuntu AWS EC2 instance, using Nginx as a reverse proxy to route incoming traffic.
-* **Cloud Security & Least Privilege:** Configured EC2 Security Groups and fine-grained AWS IAM policies following least-privilege principles.
-* **Automated CI/CD:** Built a GitHub Actions workflow that executes automated PyTest suites and supports deployment upon successful commits.
-
----
-
-### 🧠 4. Argument Mining Classifier & REST API (MSc Dissertation)
+### 🧠 3. Argument Mining Classifier & REST API (MSc Dissertation)
 [![Argument Mining](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Argument-Mining&theme=radical)](https://github.com/yzes95/Argument-Mining) [![Argument Mining API](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Argument-Mining-API&theme=radical)](https://github.com/yzes95/Argument-Mining-API)
 
 > **Repositories:** [`yzes95/Argument-Mining`](https://github.com/yzes95/Argument-Mining) (Model Training) | [`yzes95/Argument-Mining-API`](https://github.com/yzes95/Argument-Mining-API) (FastAPI Service)  
@@ -85,7 +77,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 
 ---
 
-### 🎬 5. MoodVie: Emotion-Based Recommendation Platform
+### 🎬 4. MoodVie: Emotion-Based Recommendation Platform
 [![MoodVie](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=MoodVi&theme=radical)](https://github.com/yzes95/MoodVi)
 
 > **Repository & Live Site:** [`yzes95/MoodVi`](https://github.com/yzes95/MoodVi) | [Live Web App](https://yzes95.github.io/MoodVi/)  
@@ -97,7 +89,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 
 ---
 
-### 🕹️ 6. CatHunt: 2D Platformer Adventure (Python & Pygame)
+### 🕹️ 5. CatHunt: 2D Platformer Adventure (Python & Pygame)
 [![CatHunt](https://github-readme-stats-fast.vercel.app/api/pin/?username=yzes95&repo=Cat_Hunt_V1_Python&theme=radical)](https://github.com/yzes95/Cat_Hunt_V1_Python)
 
 > **Repository Link:** [`yzes95/Cat_Hunt_V1_Python`](https://github.com/yzes95/Cat_Hunt_V1_Python)  
@@ -108,7 +100,7 @@ Skilled in containerizing RESTful microservices, designing relational schemas, b
 
 ---
 
-### 🏥 7. Curaflux: Healthcare Workforce Matching Platform
+### 🏥 6. Curaflux: Healthcare Workforce Matching Platform
 > **Tech Stack:** Python, MySQL, REST APIs, Git, Agile (Scrum)
 
 * **Relational Schema Design:** Co-designed a normalized MySQL database schema representing healthcare worker availability, shift requirements, and matching relationships.
